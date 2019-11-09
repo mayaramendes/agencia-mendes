@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    background-color: aqua;
+}
+.navbar-brand img {
+    width: 100px;
+}
+
+.carousel-inner{
+    height: 500px;
+}
+
+.imgservicos img {
+    width: 500px;
+    height: 200px;
+    margin-top: 2px;
+}
