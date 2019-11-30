@@ -7,15 +7,39 @@ body{
     margin: 0;
     padding: 0;
 }
-.menu {
-    background-color: aqua;
-}
+
 .navbar-brand img {
-    width: 100px;
+    width: 100px; 
 }
 
-.carousel-inner{
-    height: 500px;
+.menu {
+    width: auto;
+    background-color: #EAB126;
+    height: 90px;
+    
+}
+
+footer {
+    height: 40px;
+    background-color: #EAB126;
+    overflow: hidden;
+}
+.rodape {
+    color: #212121;
+    margin-top: auto;
+    
+    
+}
+
+.nav-item {
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+.d-block img{
+    width: 500px;
+    height: 200px;
 }
 
 .imgservicos img {
